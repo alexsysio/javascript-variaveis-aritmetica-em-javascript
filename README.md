@@ -1,7 +1,7 @@
 ### O Operador de Atribuição
 ### Em JavaScript, o sinal de igual (=) é um operador de atribuição, não de comparação. Isso é diferente da álgebra.
 ### Por exemplo, x = x + 5 não faz sentido na matemática, mas em JavaScript faz: ele pega o valor de x, soma 5 e guarda o resultado de volta em x. Ou seja, o valor de x aumenta em 5.
-### Já para comparar se dois valores são iguais, usamos == (comparação solta) ou === (comparação estrita, que também verifica o tipo). O === é o mais recomendado ### para evitar confusões.
+### Já para comparar se dois valores são iguais, usamos == (comparação solta) ou === (comparação estrita, que também verifica o tipo). O === é o mais recomendado para evitar confusões.
 
 <a href="https://github.com/user-attachments/assets/669ae9f4-cd3d-4e15-aee7-520a392f0a94" >
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/669ae9f4-cd3d-4e15-aee7-520a392f0a94"/>
