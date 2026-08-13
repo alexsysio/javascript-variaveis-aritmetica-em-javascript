@@ -1,4 +1,3 @@
-### Você também pode usar o operador + com strings, mas ao invés de somar, ele vai concatenar (juntar) as strings:
 ### let x = "John" + " " + "Doe"; // Resultado: "John Doe"
 
 <a href="https://github.com/user-attachments/assets/669ae9f4-cd3d-4e15-aee7-520a392f0a94" >
